@@ -1,5 +1,5 @@
-# `\`${number} obstacles when learning to code\``
-Repo for my talk `\`{number} obstacles when learning to code\``.
+# \`${number} obstacles when learning to code\`
+Repo for my talk `\{number} obstacles when learning to code\`.
 
 ## TALK SLIDES
 [Online slides (slides.com)](http://slides.com/robertaxelsen/obstacles-when-learning-to-code)  
