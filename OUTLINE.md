@@ -1,0 +1,43 @@
+- TITLE
+- ABOUT ME
+- TIME
+  - DEALING WITH TIME
+    - Accept that learning takes time
+    - Adapt the resources to YOU
+    - Set realistic time-frame
+    - Form helpful habits
+- DOUBT
+  - DEALING WITH DOUBT
+    - Eat success stories for breakfast
+    - Everyone started somewhere
+    - Google is every developer's best friend
+    - Don't listen to the haters
+    - Yes, you can
+- RESOURCES
+  - DEALING WITH RESOURCES
+    - Most students supplement FCC
+    - Figure out what works for you
+    - It helps to have a mentor  or co-students
+    - Try pair programming
+- VIM
+  - HOW TO EXIT VIM
+- DISTRACTIONS
+  - DEALING WITH DISTRACTIONS
+    - Form helpful habits/routines
+    - Figure out if there are better resources
+    - Work on your "Why!"
+- GETTING STUCK
+  - GETTING UNSTUCK
+    - Switch it up
+    - Sometimes giving up is ok
+    - Get better at debugging
+    - Step away from the code for 15 minutes
+    - Google is every developer's friend
+- DEFLATION
+  - HOW TO GET MOTIVATED
+    - Go to meetups, both for talks and socializing
+    - Actively seek out motivation
+    - The best motivator is yourself - work on your why
+    - There a lots of FCC success stories
+- WE ARE HIRING
+- THANK YOU
